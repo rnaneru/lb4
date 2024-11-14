@@ -1,3 +1,35 @@
 <persons>
     
-    
+                
+<PEOPLE>
+    <PERSON1>
+        <NAME>Иван</NAME>
+        <AGE>30</AGE>
+        <PROFESSION>учитель</PROFESSION>
+        <CITY>Санкт-Петербург</CITY>
+    </PERSON1>
+    <PERSON2>
+        <NAME>Анна</NAME>
+        <AGE>25</AGE>
+        <PROFESSION>инженер</PROFESSION>
+        <CITY>Москва</CITY>
+    </PERSON2>
+    <PERSON3>
+        <NAME>Максим</NAME>
+        <AGE>27</AGE>
+        <PROFESSION>программист</PROFESSION>
+        <CITY>Екатеринбург</CITY>
+    </PERSON3>
+    <PERSON4>
+        <NAME>Ольга</NAME>
+        <AGE>26</AGE>
+        <PROFESSION>дизайнер</PROFESSION>
+        <CITY>Краснодар</CITY>
+    </PERSON4>
+    <PERSON5>
+        <NAME>Елена</NAME>
+        <AGE>28</AGE>
+        <PROFESSION>врач</PROFESSION>
+        <CITY>Новосибирск</CITY>
+    </PERSON5>
+</PEOPLE>
